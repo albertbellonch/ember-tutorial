@@ -192,6 +192,13 @@ p {
     right: -20px;
 }
 
+.jumbo .map {
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    border-radius: 5px;
+}
+
 /**
  * Individual Listings
  */
